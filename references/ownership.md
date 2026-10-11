@@ -7,7 +7,7 @@
   - The job governs every decision in this skill. Nothing is kept against it.
 - Keep a line only if it serves the job.
   - Cut a line that serves no part of the job. Do not trim it and keep it.
-- Cut by default. Add a line only when the file cannot do its job without it.
+- Cut by default. Before entering information, check the target file and its canonical owners. Add it only if necessary for the file's job and not already covered; update an existing entry instead of appending a repetition.
   - Report a missing requirement to the user as a question. Add only wording the user supplies or approves; never fill the gap yourself.
 
 ## One owner per information type
@@ -48,7 +48,7 @@
 - Remove superseded proposals, completed intervention narratives, audit diaries, file-by-file save accounts and chat-option captions. Keep live approval states and exceptions, not their agreement history.
 - Keep a decision while it is in force, and state it as though it were always so.
   - Record both constraints when both are live; the one that is live when the other has lapsed.
-  - Record the rule, not the moment it was agreed.
+  - Record the rule, not the moment it was agreed. Omit input dates and times unless necessary for meaning, action or a required record. Preserve the protected dates and provenance below.
 - Cut a line whose only content is that something was checked, approved, confirmed or considered, with no live state attached.
 - Cut a line that describes a process rather than a state.
 - Progress contains a resume point, next action and live blockers, not source inventories or approval histories.

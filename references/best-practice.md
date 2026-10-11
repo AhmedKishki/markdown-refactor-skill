@@ -48,6 +48,7 @@
 
 ## Sections
 
+- Any Markdown file longer than 100 lines must start, after any YAML frontmatter and title, with a table of contents linking its important topics to their heading anchors and giving each a very short description for fast navigation.
 - Divide the file into sections, and each section into subsections, wherever the entries fall into groups.
   - A flat list of entries that differ in kind needs sections before it needs bullets.
 - Write each heading as a noun phrase or a question that describes what the section holds.
